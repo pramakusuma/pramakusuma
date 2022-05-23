@@ -10,9 +10,9 @@
 <br>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 📚 Currently learning Web Development and other programming languages
 
-- 📫 Reach me **gedepramananda@gmail.com**
+- 💻 Reach me **gedepramananda@gmail.com**
 
 
 <br>
