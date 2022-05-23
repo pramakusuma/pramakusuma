@@ -30,13 +30,13 @@
       <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> 
     </a> 
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > 
-      <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
-     </a>
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > 
+    <a href= https://www.w3schools.com/html > 
       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
     </a>
-    <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > 
+    <a href= https://www.w3schools.com/css > 
+      <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+     </a>
+    <a href= https://reactjs.org > 
       <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
