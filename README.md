@@ -17,22 +17,8 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pramakusuma/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="pramakusuma" height="30" width="40" /></a>
-  <a href="https://instagram.com/pramakusuma" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="pramakusuma" height="30" width="40" /></a>
- <a href="https://twitter.com/apfhunk" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="apfhunk" height="30" width="40" /></a>
-</p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px>
+<h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3> 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -63,6 +49,21 @@
       <img width ='32px' src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
       height="40" /> 
     </a>
+</p>
+
+<br>
+
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px"></h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pramakusuma/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="pramakusuma" height="30" width="40" /></a>
+  <a href="https://instagram.com/pramakusuma" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="pramakusuma" height="30" width="40" /></a>
+ <a href="https://twitter.com/apfhunk" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="apfhunk" height="30" width="40" /></a>
 </p>
 
 <br>
