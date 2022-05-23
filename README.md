@@ -6,7 +6,8 @@
 <p align='center'>
 </p>
 <h3 align="center">Currently majoring at Computer Science, Brawijaya University.</h3>
-[![Github](https://img.shields.io/github/followers/pramakusuma?label=Follow&style=social)](https://github.com/pramakusuma)
+
+[[Github](https://img.shields.io/github/followers/pramakusuma?label=Follow&style=social)](https://github.com/pramakusuma)
 <br>
 
 
@@ -18,7 +19,7 @@
 <br>
 
 
-<h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3> 
+<h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></h3> 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -53,7 +54,7 @@
 
 <br>
 
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="32px"></h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pramakusuma/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -68,7 +69,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pramakusuma&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="pramakusuma" 
